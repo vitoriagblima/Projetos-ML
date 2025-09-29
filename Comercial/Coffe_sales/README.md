@@ -45,14 +45,22 @@ Este projeto tem como foco o desenvolvimento das seguintes habilidades:
 
 Coffee_sales/
 
-├── analise_eda.ipynb  # Análise exploratória dos dados
+├── analise_eda.ipynb # Análise exploratória dos dados
 
-├── ml.ipynb  # Modelagem com machine learning
+├── ml.ipynb # Modelagem com machine learning
 
-├── coffee_sales.processed.csv  # Dataset processado utilizado
+├── coffee_sales.processed.csv # Dataset processado utilizado
 
-└── requirements.txt  # Dependências do projeto
+└── requirements.txt # Dependências do projeto
 
+
+---
+
+## 📊 Fonte dos Dados
+
+Os dados utilizados neste projeto estão disponíveis publicamente no Kaggle:
+
+🔗 [Coffee Sales Dataset - Kaggle](https://www.kaggle.com/datasets/ihelon/coffee-sales)
 
 ---
 
