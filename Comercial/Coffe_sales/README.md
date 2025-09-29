@@ -1,56 +1,66 @@
-# ☕ Análise de Vendas de Café - Meu Primeiro Projeto Prático
+# ☕ Análise de Vendas de Café
 
-## 👋 Sobre Mim
-Este é meu primeiro projeto prático que compartilho publicamente! Estou em processo de aprendizado em Análise de Dados e Machine Learning, e uso datasets reais para consolidar meu conhecimento.
+Este é o meu primeiro projeto prático compartilhado publicamente! Estou em processo de aprendizado em **Análise de Dados** e **Machine Learning**, e utilizo dados reais para aplicar e consolidar os conhecimentos adquiridos.
 
-## 🎯 Objetivo do Projeto
-Praticar e demonstrar minha evolução nas áreas de:
+---
+
+## 🎯 Objetivo
+
+Este projeto tem como foco o desenvolvimento das seguintes habilidades:
+
 - Análise Exploratória de Dados (EDA)
-- Machine Learning
-- Visualização de dados
-- Storytelling com dados
+- Modelagem com Machine Learning
+- Visualização de Dados
+- Comunicação de Insights (Data Storytelling)
+
+---
 
 ## 🛠 Tecnologias Utilizadas
-- **Python** - Linguagem principal
-- **Pandas** - Manipulação de dados
-- **Matplotlib/Seaborn** - Visualizações
-- **Scikit-learn** - Machine Learning
-- **Jupyter Notebook** - Ambiente de desenvolvimento
 
-## 📊 Metodologia que Uso
-1. **Busco datasets reais** (Kaggle e outras plataformas)
-2. **Análise Exploratória** para entender os dados
-3. **Modelo de ML** para extrair insights
-4. **Sugestões práticas** baseadas nos resultados
+- **Python** – Linguagem principal
+- **Pandas** – Manipulação de dados
+- **Matplotlib** / **Seaborn** – Visualização de dados
+- **Scikit-learn** – Algoritmos de Machine Learning
+- **Jupyter Notebook** – Ambiente de desenvolvimento
+
+---
+
+## 📈 Metodologia
+
+1. **Seleção de Dataset Real**  
+   Utilizo fontes como o Kaggle para obter dados públicos e reais.
+
+2. **Análise Exploratória (EDA)**  
+   Identifico padrões, tendências e possíveis problemas nos dados.
+
+3. **Modelagem com Machine Learning**  
+   Aplicação de modelos supervisionados para gerar insights.
+
+4. **Conclusões e Sugestões**  
+   Interpretação dos resultados com foco em aplicações práticas.
+
+---
 
 ## 📁 Estrutura do Projeto
 
 Coffee_sales/
-├── analise_eda.ipynb # Minha análise exploratória
-├── ml.ipynb # Meu modelo de machine learning
-├── coffee_sales.processed.csv # Dataset que usei
-└── requirements.txt # Bibliotecas necessárias
 
+├── analise_eda.ipynb  # Análise exploratória dos dados
+
+├── ml.ipynb  # Modelagem com machine learning
+
+├── coffee_sales.processed.csv  # Dataset processado utilizado
+
+└── requirements.txt  # Dependências do projeto
+
+
+---
 
 ## 🚀 Como Executar
+
 ```bash
+# Instale as dependências
 pip install -r requirements.txt
+
+# Execute os notebooks
 jupyter notebook
-
-💭 Processo de Aprendizado
-Estou aprendendo que:
-
-A prática com dados reais é essencial
-
-Compartilhar projetos ajuda no crescimento
-
-O começo pode ser desafiador, mas faz parte da jornada
-
-🤝 Convite
-Sinta-se à vontade para:
-
-Sugerir melhorias nos meus códigos
-
-Compartilhar feedback construtivo
-
-Trocar ideias sobre Data Science
